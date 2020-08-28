@@ -1,0 +1,1 @@
+g++ srv.cpp -lwsock32 -lws2_32 -m32 -o srv.exe
